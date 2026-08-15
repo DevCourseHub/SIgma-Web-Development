@@ -1,0 +1,4 @@
+The Backend is the server side of the website.
+It stores and arranges data, and also makes sure everything on the client side works fine.
+It is part of the website that you cannot see and interact with.
+It is the portion of software that does not come in direct contact with the users.

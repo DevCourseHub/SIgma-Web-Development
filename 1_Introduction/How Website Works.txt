@@ -1,0 +1,6 @@
+Client ---> Browser -->>> Server 
+Client <--- Browser <<<-- Server
+
+Client are user
+Browser are The Program which converts the code to a page
+Server is the provider of Code to Browser
