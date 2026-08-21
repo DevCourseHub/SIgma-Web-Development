@@ -1,0 +1,1 @@
+alert("Welcome TO WEBSITE!") // It is used to show alert on webpage
